@@ -4,8 +4,6 @@ Plataforma web para registrar, acompanhar e gerenciar problemas de infraestrutur
 
 #### Projeto desenvolvido por: Arthur Coelho
 
-<img width="797" height="887" alt="image" src="https://github.com/user-attachments/assets/4d71e850-4f9b-422b-8c89-0fd3cc962790" />
-
 
 ## Funcionalidades
 
@@ -20,6 +18,8 @@ Plataforma web para registrar, acompanhar e gerenciar problemas de infraestrutur
 - Identificação do solicitante.
 - Acompanhamento do status e histórico do chamado.
 
+<img width="797" height="887" alt="image" src="https://github.com/user-attachments/assets/4d71e850-4f9b-422b-8c89-0fd3cc962790" />
+
 ### Equipe
 
 - Painel interno em `/painel`.
@@ -31,6 +31,9 @@ Plataforma web para registrar, acompanhar e gerenciar problemas de infraestrutur
   - Em manutenção
   - Resolvido
 - Registro do histórico de alterações e observações da equipe.
+
+<img width="1059" height="875" alt="image" src="https://github.com/user-attachments/assets/7f90825a-3d3b-4e90-aa2e-0811be53ae95" />
+
 
 ## Tecnologias
 

@@ -2,6 +2,11 @@
 
 Plataforma web para registrar, acompanhar e gerenciar problemas de infraestrutura em uma faculdade.
 
+#### Projeto desenvolvido por: Arthur Coelho
+
+<img width="797" height="887" alt="image" src="https://github.com/user-attachments/assets/4d71e850-4f9b-422b-8c89-0fd3cc962790" />
+
+
 ## Funcionalidades
 
 ### Alunos
